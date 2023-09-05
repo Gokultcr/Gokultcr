@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gokul 
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Data analysis
-- 💞️ I’m looking to collaborate on Data analytics
+- 👀 I’m interested in Machine learning and Deep learning
+- 🌱 I’m currently learning advanced technologies for digital image acquistion
+- 💞️ I’m looking to collaborate on Digital Image Processing
 - 📫 How to reach me: contactgokulks@gmail.com 
 
 <!---
