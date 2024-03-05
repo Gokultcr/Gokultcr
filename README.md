@@ -16,6 +16,10 @@ Welcome to my GitHub profile! I'm Gokul.
 
 Let's connect and innovate together! 🚀
 
+📄 [Resume Repository](https://github.com/Gokultcr/Resume_Gokul)
+
+
+
 <!---
 Gokultcr/Gokultcr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
