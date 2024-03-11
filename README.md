@@ -2,7 +2,7 @@ Hi there! 👋
 
 Welcome to my GitHub profile! I'm Gokul.
 
-🎓 I hold two master's degrees in Computer Science, specializing in Artificial Intelligence and Machine Learning. In my first master's, I concentrated on Computer Vision, completing two notable projects. For my second master's, I delved into Nature-inspired Algorithms, broadening my perspective on AI.
+🎓 I am a computer scientist, I hold two master's degrees in Computer Science, specializing in Artificial Intelligence and Machine Learning. In my first master's, I concentrated on Computer Vision, completing two notable projects. For my second master's, I delved into Nature-inspired Algorithms, broadening my perspective on AI.
 
 🌲 Currently, I'm pursuing a Ph.D. focusing on the application of Machine Learning and Deep Learning algorithms for tree species classification at the Department of Forest Management and Remote Sensing, Czech University of Life Sciences, Prague.
 
