@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm Gokul.
 
 Let's connect and innovate together! 🚀
 
-📄 [Resume](https://github.com/Gokultcr/Resume_Gokul)
+📄 [Resume](https://gokultcr.github.io/)
 
 
 
